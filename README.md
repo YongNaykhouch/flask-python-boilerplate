@@ -25,6 +25,9 @@ gunicorn main:app
 Your Flask application is now available at `http://localhost:3000`.
 
 ## One-Click Deploy
+## System Architecture Diagram
+![Sơ đồ hệ thống](diagram.jpg)
+
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
